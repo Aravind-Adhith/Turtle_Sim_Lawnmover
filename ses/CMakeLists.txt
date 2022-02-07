@@ -161,7 +161,7 @@ include_directories(
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
  catkin_install_python(PROGRAMS
-   src/SES_598_Assignment_1.py
+   src/ses_1.py src/test.py src/teleport.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
 
