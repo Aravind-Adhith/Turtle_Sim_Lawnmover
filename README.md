@@ -1,5 +1,5 @@
 # TURTLE_SIM_LAWNMOVER
-## A basic ROS Project to perform a Lawnmover patter in Turtlesim
+## A basic ROS Project to perform a Lawnmover pattern in Turtlesim Environment
 
 
 It consists of 3 files : 
