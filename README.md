@@ -15,12 +15,12 @@ It consists of 3 files :
 
 ## Below are the simulation pictures :
 
-**Simulation pictures of [ses1.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1.py)**
+## Simulation pictures of [ses1.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1.py)
 
 ![1](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/Pictures/SES1/1.png)
 ![2](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/Pictures/SES1/2.png)
 
-**Simulation pcitures of [ses_1_teleport.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1_teleport.py)**
+## Simulation pcitures of [ses_1_teleport.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1_teleport.py)**
 ![1](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/Pictures/SES1-Teleport/1A.png)
 ![2](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/Pictures/SES1-Teleport/2A.png)
 ![3](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/Pictures/SES1-Teleport/3A.png)
