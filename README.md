@@ -14,8 +14,8 @@ It consists of 3 files :
 
 ## Simulation Videos :
 
-- [ses1.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1.py) - https://youtu.be/K-EjQEiraMw
-- [ses_1_teleport.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1_teleport.py) - https://youtu.be/fBCABtlrANg
+- [ses1.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1.py) - https://bit.ly/SES_1
+- [ses_1_teleport.py](https://github.com/Aravind-Adhith/Turtle_Sim_Lawnmover/blob/main/ses/src/ses_1_teleport.py) - https://bit.ly/SES_1_Teleport
 
 ## Below are the simulation pictures :
 
